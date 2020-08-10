@@ -6,7 +6,7 @@
             <thead>
             <tr>
                 <th>№</th>
-                <th>Name</th>
+                <th>Page's Name</th>
                 <th>Tags</th>
                 <th>Description</th>
                 <th>Created at</th>
@@ -33,5 +33,5 @@
             </tbody>
         </table>
     @endif
-    <a href="{{ route('pagesAdd') }}" class="btn btn-primary">Add new Artwork</a>
+    <a href="{{ route('pagesAdd') }}" class="btn btn-primary">Add new Page</a>
 </div>

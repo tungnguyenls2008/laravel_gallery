@@ -41,7 +41,7 @@
 
     <div class="form-group">
         <div class="col-xs-offset-2 col-xs-10">
-            <button class="btn btn-primary" type="submit">Save the page</button>
+            <button class="btn btn-primary" type="submit">UPDATE THIS PAGE</button>
         </div>
     </div>
 

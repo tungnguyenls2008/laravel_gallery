@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\User;
+use Illuminate\Support\Facades\Auth;
 
 
 class HomeController extends Controller
@@ -26,6 +27,9 @@ class HomeController extends Controller
     {
         return view('home');
     }
-
+    public function logout(){
+        Auth::logout();
+        return route('home');
+    }
 }
 

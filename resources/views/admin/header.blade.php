@@ -1,13 +1,13 @@
 <div class="container portfolio_title">
     <div class="section-title">
-        <h2>{{$title}}</h2>
+        <h2>{{$title}} - <a href="/" class="btn btn-primary">Back to Frontpage</a> <a class="btn btn-danger" href="{{ route('logout') }}">Logout</a></h2>
     </div>
 </div>
 <div class="portfolio">
     <div id="filters" class="sixteen columns">
         <ul style="padding:0px 0px 0px 0px">
             <li><a  href="{{route('pagesAll')}}">
-                    <h5>Artwork List</h5>
+                    <h5>Pages list</h5>
                 </a>
             </li>
             <li><a  href="{{route('portfolios.index')}}">

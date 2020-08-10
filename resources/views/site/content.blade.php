@@ -52,7 +52,7 @@
                                    <div class=" delay-01s animated fadeInDown wow animated">
                                        {!! $page->text !!}
                                    </div>
-                                   <div class="work_bottom"> <span>Something has to be added here...</span> <a href="#contact" class="contact_btn">Email us!</a> </div>
+                                   <div class="work_bottom"> <span>Something awesome started here...</span> <a href="#contact" class="contact_btn">Email us!</a> </div>
                                </div>
                            </div>
                        </div>
