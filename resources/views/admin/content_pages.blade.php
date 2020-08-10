@@ -33,5 +33,5 @@
             </tbody>
         </table>
     @endif
-    <a href="{{ route('pagesAdd') }}">Add new Artwork</a>
+    <a href="{{ route('pagesAdd') }}" class="btn btn-primary">Add new Artwork</a>
 </div>

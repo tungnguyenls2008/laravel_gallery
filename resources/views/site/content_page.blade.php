@@ -4,7 +4,7 @@
     </head>
     <body>
     <br>
-    <h2>Наша галерея</h2>
+    <h2>Our Gallery</h2>
     <div class="wrapper">
         @foreach($galleries as $gallery)
             <input type="checkbox" id="img{{$gallery->id}}">

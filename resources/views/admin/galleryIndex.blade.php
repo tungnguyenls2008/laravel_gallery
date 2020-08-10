@@ -5,7 +5,6 @@
 @section('content')
     <div style="margin:0px 50px 0px 50px;">
         @if($galleries)
-            <a href="{{ route('galleries.create') }}">Add new Artwork</a>
             <br><br>
             <table class="table table-hover table-striped">
                 <thead>
@@ -41,5 +40,7 @@
                 </nav>
             @endif
         @endif
+            <a href="{{ route('galleries.create') }}" class="btn btn-primary">Create new Gallery</a>
+
     </div>
 @endsection

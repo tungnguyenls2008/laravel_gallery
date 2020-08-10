@@ -33,47 +33,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94f27a17-c7a7-4cfc-97c3-d162e59286f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/land.loc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/land.loc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminEmployeeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminEmployeeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminGalleryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminGalleryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminPortfolioController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminPortfolioController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminServiceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminServiceController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesAddController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesAddController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesEditController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesEditController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_04_28_104843_create_table_employees.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_04_28_104843_create_table_employees.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/UserSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UserSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/content_pages.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/content_pages.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/content_pages_add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/content_pages_add.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/content_pages_edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/content_pages_edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/employeeCreate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/employeeCreate.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/employeeEdit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/employeeEdit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/employeeIndex.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/employeeIndex.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/galleryCreate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/galleryCreate.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/galleryEdit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/galleryEdit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/galleryIndex.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/galleryIndex.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/portfolioCreate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/portfolioCreate.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/portfolioEdit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/portfolioEdit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/portfolioIndex.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/portfolioIndex.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/serviceCreate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/serviceCreate.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/serviceEdit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/serviceEdit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/serviceIndex.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/serviceIndex.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/site.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/site.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/site/content.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/site/content.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/site/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/site/email.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/site/content_page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/site/content_page.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,16 +192,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\OSPanel\domains\land.loc\public\css" />
       <recent name="E:\OSPanel\domains\land.loc\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -259,6 +231,7 @@
       <workItem from="1588584858012" duration="27174000" />
       <workItem from="1596967325343" duration="4232000" />
       <workItem from="1596986914963" duration="3860000" />
+      <workItem from="1597022297503" duration="3506000" />
     </task>
     <servers />
   </component>

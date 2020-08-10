@@ -34,7 +34,7 @@
                 </tbody>
             </table>
         @endif
-        <a href="{{ route('services.create') }}">Create new Service</a>
+        <a href="{{ route('services.create') }}" class="btn btn-primary">Create new Service</a>
     </div>
     <br><br>
 @endsection

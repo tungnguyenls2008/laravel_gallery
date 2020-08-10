@@ -27,13 +27,13 @@
                 </div>
             </div>
             <div class="form-group">
-                <label for="name" class="col-xs-2 control-label">Link to Instagram:м:</label>
+                <label for="name" class="col-xs-2 control-label">Link to Instagram:</label>
                 <div class="col-xs-8">
                     <input type="text" name="instagram_link" value="{{$data['instagram_link']}}" class="form-control" placeholder="Enter the link to instagram" required>
                 </div>
             </div>
             <div class="form-group">
-                <label for="old_images" class="col-xs-2 control-label">Фото:</label>
+                <label for="old_images" class="col-xs-2 control-label">Avatar:</label>
                 <div class="col-xs-offset-2 col-xs-10">
                     <img src="/img/gallery/{{ $data['images'] }}" class="img-thumbnail img-responsive" width="150px" >
                     <input type="hidden" name="old_images" value={{$data['images']}}>

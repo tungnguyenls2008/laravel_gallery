@@ -34,7 +34,7 @@
                 </tbody>
             </table>
         @endif
-            <a href="{{ route('portfolios.create') }}">Create new Portfolio</a>
+            <a href="{{ route('portfolios.create') }}" class="btn btn-primary">Create new Portfolio</a>
     </div>
     <br><br>
 @endsection

@@ -28,7 +28,7 @@
                                    @endif
                                    <div class="top_left_cont zoomIn wow animated">
                                        {!! $page->text !!}
-                                       <a href="{{ route('pages', $page->alias) }}" class="read_more2">My Gallery</a> </div>
+                                       <a href="{{ route('pages', $page->alias) }}" class="read_more2">More Galleries...</a> </div>
                                </div>
                                <div class="col-lg-7 col-sm-5">
                                    <img src="/img/{{ $page->images }}">

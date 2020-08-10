@@ -77,7 +77,7 @@ class AdminEmployeeController extends Controller
         $employee->fill($input);
 
         if($employee->save()) {
-            return redirect('admin')->with('success', 'Успешно добавлено');
+            return redirect('admin')->with('success', 'Artist saved successfully');
         }
     }
 
@@ -149,7 +149,7 @@ class AdminEmployeeController extends Controller
         $employee->fill($input);
 
         if($employee->update()) {
-            return redirect('admin')->with('success', 'Данные сотрудника обновлены');
+            return redirect('admin')->with('success', 'Contact updated successfully');
         }
     }
 
